@@ -10,7 +10,7 @@ Exploring full-stack development with a passion for learning and coding.
 * ✉️  You can contact me at [dontresor922@gmail.com](mailto:dontresor922@gmail.com)
 * 🧠  I'm learning Software Engineering
 * 🤝  I'm open to collaborating on Anything related to programming
-* ⚡  I'm secretly Spider-Man₊˚.🕸️🕷️⋆☾⋆⁺₊✧ᶻ...... but don't tell anyone😉
+* ⚡  Just a developer by day… and maybe Spider-Man by night. 🕸️🕷️ But shhh… 😉
 
 ### Skills
 
