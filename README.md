@@ -42,5 +42,5 @@ src="https://img.shields.io/twitter/follow/dtresor_?logo=twitter&style=for-the-b
   
   <!-- For custom activity visualization like shown in your image -->
   <!-- You would typically use a third-party service that generates SVG graphics -->
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/Don-tresor05" alt="GitHub Metrics" />
 </div>
