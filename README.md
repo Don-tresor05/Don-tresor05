@@ -38,27 +38,3 @@ src="https://img.shields.io/twitter/follow/dtresor_?logo=twitter&style=for-the-b
 <a href="https://github.com/Don-tresor05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-tresor05&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" style="background-color: #0d1117;">
-  <!-- Axes -->
-  <line x1="200" y1="25" x2="200" y2="275" stroke="#00ff00" stroke-width="2" />
-  <line x1="25" y1="150" x2="375" y2="150" stroke="#00ff00" stroke-width="2" />
-  
-  <!-- Labels -->
-  <text x="200" y="20" fill="#87ceeb" text-anchor="middle" font-size="14">8%</text>
-  <text x="200" y="35" fill="#87ceeb" text-anchor="middle" font-size="14">Code review</text>
-  
-  <text x="65" y="145" fill="#87ceeb" text-anchor="middle" font-size="14">88%</text>
-  <text x="65" y="160" fill="#87ceeb" text-anchor="middle" font-size="14">Commits</text>
-  
-  <text x="335" y="145" fill="#87ceeb" text-anchor="middle" font-size="14">Issues</text>
-  
-  <text x="200" y="280" fill="#87ceeb" text-anchor="middle" font-size="14">4%</text>
-  <text x="200" y="295" fill="#87ceeb" text-anchor="middle" font-size="14">Pull requests</text>
-  
-  <!-- Points -->
-  <circle cx="110" cy="150" r="5" fill="#00ff00" />
-  <circle cx="200" cy="150" r="5" fill="#00ff00" />
-  
-  <!-- Connecting line -->
-  <line x1="110" y1="150" x2="200" y2="150" stroke="#00ff00" stroke-width="3" />
-</svg>
