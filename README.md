@@ -36,11 +36,3 @@ src="https://img.shields.io/twitter/follow/dtresor_?logo=twitter&style=for-the-b
 <a href="http://www.github.com/Don-tresor05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Don-tresor05&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Don-tresor05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-tresor05&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div align="center">
-  <!-- GitHub Activity Metrics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Don-tresor05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- You can use something like metrics.lecoq.io with a custom template for the visualization -->
-  <img src="https://metrics.lecoq.io/Don-tresor05?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&activity=1" alt="GitHub Metrics" />
-</div>
