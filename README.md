@@ -1,4 +1,4 @@
-[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Don Trésor a.k.a (T.I)
+[[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Don Trésor a.k.a (T.I)
 ======================================================================================================================================
 
 Full-Stack Development
@@ -33,4 +33,3 @@ Exploring full-stack development with a passion for learning and coding.
 <a href="http://www.github.com/Don-tresor05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Don-tresor05&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Don-tresor05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-tresor05&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-](https://www.dribbble.com/dtresor_)
