@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Don Trésor a.k.a (T.I)
 =============================================================================================================================================================
 
-Full-Stack Development
+Full-Stack Developer
 ----------------------
 
 Exploring full-stack development with a passion for learning and coding.
